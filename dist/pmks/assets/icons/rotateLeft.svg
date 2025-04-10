@@ -1,0 +1,31 @@
+<svg
+  width="100"
+  height="100"
+  viewBox="0 0 100 100"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <!-- Top semicircle -->
+  <path
+    d="
+      M80,40
+      A30,30 0 0 0 20,40
+    "
+    fill="none"
+    stroke="#000"
+    stroke-width="2"
+  />
+
+  <!-- Filled triangle pointing downward. -->
+  <polygon
+    points="20,45 15,39 25,39"
+    fill="#000"
+  />
+
+  <!-- Vertical line -->
+  <line
+    x1="50" y1="40"
+    x2="50" y2="80"
+    stroke="#000"
+    stroke-width="2"
+  />
+</svg>
